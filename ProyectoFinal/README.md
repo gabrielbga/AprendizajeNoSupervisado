@@ -10,4 +10,4 @@ Así las cosas, se usará la metodología de componentes principales para constr
 
 El proyecto aporta a la literatura el primer CLI para Colombia y otorga una cuantificación al efecto que tiene el crecimiento económico de China en Colombia, dada la relación comercial entre ambos países y que incide de manera directa en las cuentas nacionales del país latinoamericano.
 
-### Base de Datos: [Archivo de Base de datos] (https://github.com/gabrielbga/AprendizajeNoSupervisado/raw/main/ProyectoFinal/BDD.xlsx)
+### Base de Datos: [Archivo de Base de datos](https://github.com/gabrielbga/AprendizajeNoSupervisado/raw/main/ProyectoFinal/BDD.xlsx)
