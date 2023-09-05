@@ -36,4 +36,6 @@ Luego, se concluye que el primer componente principal recoge los choques de dema
 Profesor: Ignacio Sarmiento y cuerpo de monitores.
 
 
-### Base de Datos: [Archivo de Base de datos](https://github.com/gabrielbga/AprendizajeNoSupervisado/raw/main/ProyectoFinal/BDD.xlsx)
+#### Base de Datos: [Archivo de Base de datos](https://github.com/gabrielbga/AprendizajeNoSupervisado/raw/main/ProyectoFinal/BDD.xlsx)
+
+#### Propuesta Inicial: [Propuesta PDF](https://github.com/gabrielbga/AprendizajeNoSupervisado/blob/main/ProyectoFinal/Documento%20con%20propuesta%20inicial%5B1%5D.pdf)
