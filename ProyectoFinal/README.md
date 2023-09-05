@@ -2,7 +2,7 @@
 ## Implicaciones del crecimiento económico chino en Colombia: Construcción de un CLI bajo propuesta OCDE
 ![Colombia-China](https://tse3.mm.bing.net/th?id=OIP.C8eqQAjvo9lxY5gEnxca0wHaDM&pid=Api&P=0&h=180)
 
-### Introducción:
+### Resumen:
 
 El problema a abordar en el proyecto se basa en la construcción de un indicador de seguimiento a la actividad económica de Colombia con el fin de complementar el trabajo iniciado por la OCDE (Organización para la Cooperación y Desarrollo Económico) en la construcción de un indicador adelantado compuesto (En adelante CLI por sus siglas en inglés) para la economía de varios de sus países miembros. Dicho indicador está diseñado con el fin de proveer señales tempranas ante puntos de inflexión en los ciclos de negocios o fluctuaciones de la actividad económica alrededor de su nivel potencial de largo plazo .
 
@@ -10,4 +10,4 @@ Así las cosas, se usará la metodología de componentes principales para constr
 
 El proyecto aporta a la literatura el primer CLI para Colombia y otorga una cuantificación al efecto que tiene el crecimiento económico de China en Colombia, dada la relación comercial entre ambos países y que incide de manera directa en las cuentas nacionales del país latinoamericano.
 
-
+### Base de Datos: [https://tse3.mm.bing.net/th?id=OIP.C8eqQAjvo9lxY5gEnxca0wHaDM&pid=Api&P=0&h=180](https://github.com/gabrielbga/AprendizajeNoSupervisado/raw/main/ProyectoFinal/BDD.xlsx)https://github.com/gabrielbga/AprendizajeNoSupervisado/raw/main/ProyectoFinal/BDD.xlsx
