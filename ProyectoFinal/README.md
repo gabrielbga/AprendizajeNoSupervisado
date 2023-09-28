@@ -4,7 +4,7 @@
 
 ### Resumen:
 
-Define el problema/reto al que se enfrenta el equipo, resaltando el resultado principal que se espera del trabajo sin entrar en los detalles. [15 puntos]
+Se define el problema/reto al que se enfrenta el equipo, resaltando el resultado principal que se espera del trabajo sin entrar en los detalles. [15 puntos]
 
 El problema a abordar en el proyecto se basa en la construcción de un indicador de seguimiento a la actividad económica de Colombia con el fin de complementar el trabajo iniciado por la OCDE (Organización para la Cooperación y Desarrollo Económico) en la construcción de un indicador adelantado compuesto (En adelante CLI por sus siglas en inglés) para la economía de varios de sus países miembros. Dicho indicador está diseñado con el fin de proveer señales tempranas ante puntos de inflexión en los ciclos de negocios o fluctuaciones de la actividad económica alrededor de su nivel potencial de largo plazo (OCDE, 2023).
 
