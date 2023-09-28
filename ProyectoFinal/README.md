@@ -8,7 +8,7 @@ Construcción de un indicador de seguimiento a la actividad económica de Colomb
 
 ### Metodología y variables utilizadas:
 
-Se usa la metodología de componentes principales para construir un CLI para Colombia a partir de seis variables relevantes según la literatura económica: 
+Se usa la metodología de componentes principales para construir un CLI para Colombia a partir de treinta variables relevantes según la literatura económica: 
 
  - El área aprobada para construcción de edificaciones 
  - El número de licencias otorgadas según el área aprobada 
