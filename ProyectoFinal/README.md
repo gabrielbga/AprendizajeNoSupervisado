@@ -84,6 +84,6 @@ Profesor: Ignacio Sarmiento y cuerpo de monitores.
 
 #### Propuesta Inicial: [Propuesta PDF](https://github.com/gabrielbga/AprendizajeNoSupervisado/blob/main/ProyectoFinal/Documento%20Informe%20Final.docx.pdf)
 
-#### Base de Datos: [Archivo de Base de datos](https://github.com/gabrielbga/AprendizajeNoSupervisado/blob/main/ProyectoFinal/Entregable/BDD_.xlsx)
+#### Base de Datos: [Archivo de Base de datos](https://github.com/gabrielbga/AprendizajeNoSupervisado/blob/main/ProyectoFinal/BDD_.xlsx)
 
 #### NoteBook: [Notebook Proyecto](https://github.com/gabrielbga/AprendizajeNoSupervisado/blob/main/ProyectoFinal/Entregable/Proyecto%20-%20Entrega%202%20V2.ipynb)
