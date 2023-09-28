@@ -10,12 +10,35 @@ Construcción de un indicador de seguimiento a la actividad económica de Colomb
 
 Se usa la metodología de componentes principales para construir un CLI para Colombia a partir de seis variables relevantes según la literatura económica: 
 
-* El área aprobada para construcción de edificaciones 
-* El número de licencias otorgadas según el área aprobada
-* El índice de precios al consumidor (IPC)
-* Las importaciones CIF en dólares
-* El índice de confianza del consumidor (ICC) 
-* El índice de expectativas del consumidor (IEC). 
+ - El área aprobada para construcción de edificaciones 
+ - El número de licencias otorgadas según el área aprobada 
+ - El índice de precios al consumidor (IPC)
+ - Las importaciones CIF en dólares
+ - El índice de confianza del consumidor (ICC)
+ - El índice de expectativas del consumidor (IEC).  
+ - Las Exportaciones en millones de dólares.
+ - Balanza comercial de bienes en millones dólares.
+ - Tipo de Brent en Dólares por barril.
+ - El índice del dolar (DXY).
+ - Tasa de cambio del dólar en pesos colombianos USDCOP.
+ - US10Y Tesoro a 10 años en porcentaje.
+ - US2Y Tesoro a 2 años en porcentaje.
+ - US5Y Tesoro a 5 años en porcentaje.
+ - TES 10Y Títulos de Tesorería en porcentaje.
+ - CDS 5Y Credit Default Swaps a 5 indice. 
+ - Banrep vs. Fed en puntos porcentuales.
+ - Tasa de cambio del dólar en Euros EURUSD.
+ - Tasa de cambio del dólar en Yenes USDJPY.
+ - Tasa de cambio del dólar en Libras GBPUSD.
+ - Tasa de cambio del dólar en Dólares Canadienses USDCAD.
+ - Tasa de cambio del dólar en Coronas USDSEK.
+ - Tasa de cambio del dólar en Francos USDCHF.
+ - Remesas en millones de dólares.
+ - Onzas de Oro por dólar.
+ - Kilovatios de Gas por hora.
+ - Valor de libra del café en dólares.
+ - Inversión extranjera directa en millones de dólares.
+ - Inversión extranjera de portafolio de dólares. 
 
 Una vez construido el índice a través de los principales, se realizan ejercicios de elasticidad entre el CLI de China -construido previamente por la OCDE- y el CLI colombiano aportado en este proyecto, con el fin de cuantificar el efecto que tiene sobre la actividad económica de Colombia una rebaja de 1 punto porcentual en el crecimiento económico esperado de China para 2023.
 El proyecto aporta a la literatura el primer CLI para Colombia y otorga una cuantificación al efecto que tiene el crecimiento económico de China en Colombia, dada la relación comercial entre ambos países y que incide de manera directa en las cuentas nacionales del país latinoamericano.
