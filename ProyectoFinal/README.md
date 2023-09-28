@@ -82,7 +82,7 @@ Se concluye que la estimación del indicador adelantado de la actividad económi
 ### Agradecimientos
 Profesor: Ignacio Sarmiento y cuerpo de monitores.
 
-#### Propuesta Inicial: [Propuesta PDF]()
+#### Propuesta Inicial: [Propuesta PDF](https://github.com/gabrielbga/AprendizajeNoSupervisado/blob/main/ProyectoFinal/Documento%20Informe%20Final.docx.pdf)
 
 #### Base de Datos: [Archivo de Base de datos](https://github.com/gabrielbga/AprendizajeNoSupervisado/blob/main/ProyectoFinal/Entregable/BDD_.xlsx)
 
